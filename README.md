@@ -1,5 +1,7 @@
 # HKU_COMP2396_Spring16
 
+Critical: Sorry for the typo, should be Spring17!
+
 Two fun course projects that I think worth uploading. 
 
 For the Animal Fight, assignment design needs students to design complicated OOP program, which leaves me good skills about OOP.
